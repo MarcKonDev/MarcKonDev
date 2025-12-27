@@ -9,7 +9,7 @@
 
 ## Über mich
 - Entwicklung einer eigenen Social-Media-Anwendung mit Fokus auf Community und Vernetzung
-- Teamarbeit an einer Notizen-App (vier Personen), inklusive Planung, Umsetzung und Abstimmung
+- Teamarbeit an einer Notizen-App (fünf Personen), inklusive Planung, Umsetzung und Abstimmung
 - Interessen: Künstliche Intelligenz, Blockchain-Technologien und Outdoor-Aktivitäten
 - Fun Fact: Ich habe +800k Follower auf Social Media, ohne dass man mich kennt
 
