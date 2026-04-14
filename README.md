@@ -1,17 +1,15 @@
 # 👋 Marc – Software Developer (in Weiterbildung)
 
 ## Kurzprofil
-- Ich befinde mich aktuell in einer Weiterbildung zum Programmierer mit Schwerpunkt auf modernen Webtechnologien.
+- Ich befinde mich aktuell in einer Weiterbildung bei der Developer Academy zum Programmierer mit Schwerpunkt auf modernen Webtechnologien.
 - Mein Fokus liegt auf der Entwicklung von Webanwendungen mit **JavaScript** sowie der Arbeit mit **Firebase**. 
 - Zukünftig erweitere ich mein Skillset um **TypeScript**, **Angular** und **Python**.
 
 ---
 
 ## Über mich
-- Entwicklung einer eigenen Social-Media-Anwendung mit Fokus auf Community und Vernetzung
 - Teamarbeit an einer Notizen-App (fünf Personen), inklusive Planung, Umsetzung und Abstimmung
 - Interessen: Künstliche Intelligenz, Blockchain-Technologien und Outdoor-Aktivitäten
-- Fun Fact: Ich habe +800k Follower auf Social Media, ohne dass man mich kennt
 
 ---
 
